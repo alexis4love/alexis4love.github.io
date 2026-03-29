@@ -1,2 +1,2 @@
 # alexis4love.github.io
-My card
+My personal card created with html + css <3
